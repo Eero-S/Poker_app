@@ -1,0 +1,28 @@
+// Below you can see the results of testApp.scala
+
+Hand: A-Spades, 2-Spades, 3-Spades, 4-Spades, 5-Spades
+Score: STRAIGHT FLUSH!
+
+Hand: A-Clubs, 2-Spades, 3-Spades, 4-Spades, 5-Spades
+Score: STRAIGHT!
+
+Hand: A-Spades, 6-Spades, 3-Spades, 4-Spades, 5-Spades
+Score: FLUSH!
+
+Hand: A-Spades, A-Clubs, 2-Spades, 2-Clubs, 5-Spades
+Score: TWO PAIRS!
+
+Hand: A-Spades, A-Clubs, 3-Spades, 4-Spades, 5-Spades
+Score: PAIR!
+
+Hand: A-Spades, A-Hearts, A-Clubs, 4-Spades, 5-Spades
+Score: THREE OF A KIND!
+
+Hand: A-Spades, A-Clubs, A-Hearts, A-Diamonds, 5-Spades
+Score: QUADS!
+
+Hand: A-Spades, A-Clubs, A-Hearts, 2-Clubs, 2-Spades
+Score: FULL HOUSE!
+
+Hand: A-Clubs, 2-Spades, 3-Spades, 4-Spades, 6-Spades
+Score: A-high.

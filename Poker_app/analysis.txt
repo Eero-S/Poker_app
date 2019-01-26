@@ -1,0 +1,12 @@
+Hand number 1:    K-Diamonds, 2-Spades, 6-Hearts, 6-Diamonds, A-Clubs
+Score:            PAIR!
+
+Hand number 2:    Q-Spades, 2-Hearts, 8-Clubs, 7-Hearts, 9-Spades
+Score:            Q-high.
+
+Hand number 3:    5-Spades, K-Clubs, J-Spades, 4-Spades, 9-Diamonds
+Score:            K-high.
+
+
+// Above is the result of app.scala.
+// Note that these are generated randomly.
